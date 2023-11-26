@@ -54,7 +54,7 @@ function web{
     param (
         [string]$site
     )
-    $si = Invoke-WebRequest -uri "$site" -Method GET
+    $si = Invoke-WebRequest -uri "$site" -Method GET -UseBasicParsing
     #-OutFile x.txt
 
     #$si.headers
