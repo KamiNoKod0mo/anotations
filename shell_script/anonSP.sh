@@ -49,6 +49,5 @@ elif [ $esc == 'pi' ]; then
 else
     exit
 fi
-    
 
 
