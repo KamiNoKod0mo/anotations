@@ -80,6 +80,10 @@ food = ["carne","frango", "batata", "aaa"] #List
 #print(capitais.get("teste"))#keys, values, items, for key,value; update({"ger":"aa"}), pop, clear
 #del() set() update()
 
+#----
+#Falta daqui para baixo
+#----
+
 #uten = {"faca", "panela"} #set
 #uten.add("teste")#remove, clear, union, difference, intersection
 #print(uten)
@@ -98,6 +102,11 @@ food = ["carne","frango", "batata", "aaa"] #List
 #Nested functions, função aninhadas
 #print(round(abs(float(input("Teste: ")))))
 #global and local scope
+
+#----
+#Intermediarioa
+#---
+
 
 #def te(size,*args): #guarda em tuplas
 #    sum =0
@@ -281,6 +290,9 @@ food = ["carne","frango", "batata", "aaa"] #List
 
 #pessoa.catch(chicken)
 
+#----
+# Advanced
+#----
 
 #walrus operator :=         #*******
 #print (happy := True)
